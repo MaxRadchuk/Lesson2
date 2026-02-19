@@ -1,3 +1,4 @@
 <?php
 getinfo();
-?> git init
+?>
+// comments
